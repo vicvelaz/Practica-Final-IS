@@ -1,0 +1,6 @@
+GRUPO/GROUP: GRUPO 202
+NOMBRE/NAME 1: Alejandro Bazaco Perez
+NOMBRE/NAME 2: Alvaro Mellado
+NOMBRE/NAME 3: Carlos Sanchez Alvarez
+NOMBRE/NAME 4: Gabriel Gomez Sittima
+NOMBRE/NAME 5: Victor Velazquez Cabrera
